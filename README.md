@@ -29,23 +29,25 @@ cd sake-search-app
 
 pip install -r requirements.txt
 
-	3.	アプリを起動：
+	3.アプリを起動：
 
 streamlit run sake_kensaku3.py
 
-	4.	ブラウザが自動で起動し、アプリが表示されます（http://localhost:8501）
+	4.ブラウザが自動で起動し、アプリが表示されます（http://localhost:8501）
 
 スクリーンショット
 
 
-検索画面の例：
+## 検索画面の例：
 
 ![日本酒検索画面](images/search_screen.png)
 
-備考
+---
 
-	•	日本酒情報は「さけのわ」（https://sakenowa.com）などのデータを参照しています
-	•	本アプリは学習・ポートフォリオ目的のものであり、商用利用はご遠慮ください
+## 備考
+
+	- 日本酒情報は「さけのわ」（https://sakenowa.com）などのデータを参照しています
+	- 本アプリは学習・ポートフォリオ目的のものであり、商用利用はご遠慮ください
 
 ライセンス
 
