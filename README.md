@@ -25,7 +25,7 @@ Streamlit を使って構築しており、Webブラウザ上で直感的に操�
 git clone https://github.com/hayashi090/sake-search-app.git
 cd sake-search-app
 
-	2.	必要なライブラリをインストール：
+	2.必要なライブラリをインストール：
 
 pip install -r requirements.txt
 
