@@ -24,15 +24,15 @@ Streamlit を使って構築しており、Webブラウザ上で直感的に操�
 ```bash
 git clone https://github.com/hayashi090/sake-search-app.git
 cd sake-search-app
-
+```
 	2.必要なライブラリをインストール：
-
+```
 pip install -r requirements.txt
-
+```
 	3.アプリを起動：
-
+```
 streamlit run sake_kensaku3.py
-
+```
 	4.ブラウザが自動で起動し、アプリが表示されます（http://localhost:8501）
 
 スクリーンショット
@@ -40,6 +40,7 @@ streamlit run sake_kensaku3.py
 
 ## 検索画面の例：
 
+以下は実際の検索画面の一例です。
 ![日本酒検索画面](images/search_screen.png)
 
 ---
